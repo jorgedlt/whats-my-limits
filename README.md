@@ -9,3 +9,5 @@ aws support describe-trusted-advisor-check-result \
     --output text
 #
 
+# also see 
+https://awslimitchecker.readthedocs.io/en/latest/getting_started.html
